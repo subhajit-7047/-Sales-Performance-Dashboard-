@@ -101,7 +101,7 @@ ________________________________________
 ________________________________________
 👨‍💻 Author
 
-<table> <tr> <td> <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="100" /> </td> <td> <strong>Subhajit Kr Roy</strong><br> 🎓 BTech CSE | 💼 Data Analyst | 🤖 ML Developer <br> 🌍 Purba Medinipur, India <br> 📧 subhajit.roy@example.com <br> 🔗 [GitHub](https://github.com/subhajit-7047) </td> </tr> </table>
+<table> <tr> <td> <img src="https://avatars.githubusercontent.com/u/179395408?v=4" width="100" /> </td> <td> <strong>Subhajit Kr Roy</strong><br> 🎓 BTech CSE | 💼 Data Analyst | 🤖 ML Developer <br> 🌍 Purba Medinipur, India <br> 📧 subhajit.roy@example.com <br> 🔗 [GitHub](https://github.com/subhajit-7047) </td> </tr> </table>
 
 
 
