@@ -1,4 +1,4 @@
-# -Sales-Performance-Dashboard-
+# 📊 -Sales-Performance-Dashboard-
 This project showcases a dynamic and interactive **Sales Performance Dashboard** created using Microsoft Excel. It visualizes multi-year sales data (2021–2024) and provides actionable insights using pivot tables, charts, slicers, and conditional formatting.
 
 
@@ -24,6 +24,14 @@ The Sales Dashboard offers a clean and professional layout that tracks performan
 - 🏙 **City Ratings**: Top 8 cities by performance with visual indicators for best and worst performers.
 - 📦 **Goods Quantity**: Total number of goods sold and total revenue generated.
 - 🔘 **Interactive Filters**: Use buttons to toggle between years and regions.
+
+
+🧪 Use Cases
+## 🎯 Who Should Use This?
+- 🧑‍💼 Business Analysts
+- 🧑‍🎓 Students learning Excel dashboards
+- 📊 Data Visualization Enthusiasts
+- 🛠 Excel Automation Learners
 
 ---
 
@@ -78,11 +86,17 @@ This project is open-source and free to use for educational and personal purpose
 ________________________________________
 
 👨‍💻 Created By
+
 Subhajit Kr Roy
+
 BTech CSE | Data Analyst | ML Developer
+
 📍 Purba Medinipur, India
-📬 subhajit.roy@example.com (replace with your real email if you want)
+
+📬 subhajit704712@gmail.com
+
 🔗 GitHub: @subhajit-7047
+
 Built with 💡 by Subhajit Kr Roy | LinkedIn : https://www.linkedin.com/in/subhajit-kumar-roy/ | Data Analyst & ML Developer
 
 ---
