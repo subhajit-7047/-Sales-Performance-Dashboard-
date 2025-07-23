@@ -47,7 +47,8 @@ The Sales Dashboard offers a clean and professional layout that tracks performan
 
 ## 📸 Preview
 
-![Sales Dashboard Preview](dashboard-preview.png)
+![Sales Dashboard Preview](<img width="1919" height="910" alt="Dashboard-image" src="https://github.com/user-attachments/assets/4ff98abd-55fd-4342-aeb2-f96e08f0ee2f" />
+)
 
 ---
 
