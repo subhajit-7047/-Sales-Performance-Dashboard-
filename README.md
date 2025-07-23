@@ -85,33 +85,23 @@ ________________________________________
 This project is open-source and free to use for educational and personal purposes.
 ________________________________________
 
-👨‍💻 Created By
 
-Subhajit Kr Roy
+## 🛠️ Tools & Technologies
 
-BTech CSE | Data Analyst | ML Developer
+| Tool               | Purpose                           |
+|--------------------|------------------------------------|
+| 🎯 **Microsoft Excel** | Data visualization, Slicers, Charts |
+| 📊 **Pivot Tables**    | Data summarization               |
+| 📉 **Pivot Charts**    | Visual analytics                 |
+| 🧮 **Macros (.xlsm)**  | Interactivity & automation       |
+| 🎨 **Conditional Formatting** | KPI highlight effects     |
 
-📍 Purba Medinipur, India
 
-📬 subhajit704712@gmail.com
 
-🔗 GitHub: @subhajit-7047
+________________________________________
+👨‍💻 Author
 
-Built with 💡 by Subhajit Kr Roy | LinkedIn : https://www.linkedin.com/in/subhajit-kumar-roy/ | Data Analyst & ML Developer
-
----
-
-### ✅ What to Do Next
-
-1. Rename the Excel file and screenshot if needed:
-   - `Sales-Dashboard-2021-2024.xlsm`
-   - `dashboard-preview.png`
-
-2. Upload both to your GitHub repo.
-
-3. Copy and paste the above README content into `README.md`.
-
----
+<table> <tr> <td> <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="100" /> </td> <td> <strong>Subhajit Kr Roy</strong><br> 🎓 BTech CSE | 💼 Data Analyst | 🤖 ML Developer <br> 🌍 Purba Medinipur, India <br> 📧 subhajit.roy@example.com <br> 🔗 [GitHub](https://github.com/subhajit-7047) </td> </tr> </table>
 
 
 
